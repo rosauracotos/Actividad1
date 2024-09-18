@@ -1,0 +1,30 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: blueviolet;
+    margin: 1rem;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+input,button {
+    font-size: 16px;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+}
+
+button{
+    background-color: cadetblue;
+    cursor: pointer;
+}
